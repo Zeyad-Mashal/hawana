@@ -1,0 +1,8 @@
+.carousel {
+  margin-top: 0.2rem;
+}
+.carousel img {
+  height: 140px;
+  background-size: cover;
+  background-position: center;
+}
