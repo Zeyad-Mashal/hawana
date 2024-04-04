@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hawana.git/static/css/main.322861c4.css",
-    "main.js": "/hawana.git/static/js/main.e9fd8560.js",
-    "static/media/banner1.jpg": "/hawana.git/static/media/banner1.439651aa0eb8f4b0d7c9.jpg",
-    "static/media/logo.svg": "/hawana.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hawana.git/index.html",
-    "main.322861c4.css.map": "/hawana.git/static/css/main.322861c4.css.map",
-    "main.e9fd8560.js.map": "/hawana.git/static/js/main.e9fd8560.js.map"
+    "main.css": "/hawana/static/css/main.322861c4.css",
+    "main.js": "/hawana/static/js/main.eaea2991.js",
+    "static/media/banner1.jpg": "/hawana/static/media/banner1.439651aa0eb8f4b0d7c9.jpg",
+    "static/media/logo.svg": "/hawana/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hawana/index.html",
+    "main.322861c4.css.map": "/hawana/static/css/main.322861c4.css.map",
+    "main.eaea2991.js.map": "/hawana/static/js/main.eaea2991.js.map"
   },
   "entrypoints": [
     "static/css/main.322861c4.css",
-    "static/js/main.e9fd8560.js"
+    "static/js/main.eaea2991.js"
   ]
 }
